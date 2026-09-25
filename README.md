@@ -20,7 +20,7 @@ Projeto focado na implementação de conceitos fundamentais de **JavaScript**, *
 
 ## ⚙️ Como Executar
 
-1. Certifica-te de ter o **Node.js** instalado na tua máquina.
-2. Clona este repositório:
-   ```bash
+1. Certifique-se de ter o **Node.js** instalado na sua máquina.
+2. Clone este repositório:
+```bash
  git clone https://github.com/MatheussssH/fintech2.git
